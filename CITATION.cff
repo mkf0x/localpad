@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this software and acknowledge its original author."
+title: "localpad"
+authors:
+  - family-names: "Fuchs"
+    given-names: "Matthias"
+version: 1.0.0
+date-released: "2026-11-15"
+repository-code: "https://github.com/mkf0x/localpad"
+license: "SEE LICENSE IN LICENSE"
